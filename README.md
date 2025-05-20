@@ -2,7 +2,7 @@
 
 **CHAI Docs RAG** is a powerful AI assistant built with **LangChain**, **Qdrant**, and **Gemini** by Google to help you query documentation about **HTML**, **Django**, and **SQL** through a conversational interface.
 
-Ask questions and get answers grounded in Chai Docs!
+Ask questions and get answers grounded in [Chai docs](https://chaidocs.vercel.app/youtube/getting-started)!
 
 ---
 
